@@ -58,13 +58,16 @@ $ chibicc 01.c -o 01.bin
 $ make 01
 $ ./01.bin
 Hello world!
+# or compile and run all tests
+$ make
+$ make test
 ```
 
 ## Presentation
 - YouTube: https://youtu.be/TODO
 - Script: [script.md](script.md)
 - Recording: [recording.mp4](recording.mp4)
-- Slides: [slides.pdf](slides.pdf)
+- Slides: [slides.pdf](slides.pdf) & [slides.pptx](slides.pptx)
 
 ## References
 [1] https://stackoverflow.com/questions/77108297/breaking-down-the-c-compilation-process-into-preprocessing-compilation-assembl
